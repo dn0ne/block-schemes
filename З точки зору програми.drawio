@@ -1,0 +1,320 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram name="Page-1" id="gWtPbJ2O6Jscst8-D_sE">
+    <mxGraphModel dx="4200" dy="2228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-2" target="EPE6BxK0IPjFPiHwXgnp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-2" value="Початок" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="350" y="90" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-3" value="Кінець" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-4" target="EPE6BxK0IPjFPiHwXgnp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-4" value="Запуск додатку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-5" target="EPE6BxK0IPjFPiHwXgnp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-5" value="Отримання списку недавно відкритих файлів" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-6" target="EPE6BxK0IPjFPiHwXgnp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-6" value="База даних" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-12" target="EPE6BxK0IPjFPiHwXgnp-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-12" value="Відобразити вітальний екран" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-14" target="EPE6BxK0IPjFPiHwXgnp-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-22" value="Так" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EPE6BxK0IPjFPiHwXgnp-17">
+          <mxGeometry x="-0.38" y="-1" relative="1" as="geometry">
+            <mxPoint x="16" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-14" target="EPE6BxK0IPjFPiHwXgnp-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-60" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EPE6BxK0IPjFPiHwXgnp-24">
+          <mxGeometry x="-0.9029" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-14" value="Користувач обирає файл для&lt;div&gt;роботи з панелі недавніх?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="460" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-16" target="EPE6BxK0IPjFPiHwXgnp-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-16" value="Завантажити обраний файл" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-18" target="EPE6BxK0IPjFPiHwXgnp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-18" value="Обробка вмісту файлу, приведення у форму для відображення" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="710" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-20" target="EPE6BxK0IPjFPiHwXgnp-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-20" value="Відобразити редактор" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1230" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-23" target="EPE6BxK0IPjFPiHwXgnp-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-61" value="Так" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EPE6BxK0IPjFPiHwXgnp-26">
+          <mxGeometry x="-0.5055" relative="1" as="geometry">
+            <mxPoint x="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-23" target="EPE6BxK0IPjFPiHwXgnp-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-62" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EPE6BxK0IPjFPiHwXgnp-40">
+          <mxGeometry x="-0.9427" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-23" value="Користувач натискає&lt;div&gt;кнопку &quot;Створити&quot;&lt;span style=&quot;background-color: initial;&quot;&gt;?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="550" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-25" target="EPE6BxK0IPjFPiHwXgnp-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-32" value="Так" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EPE6BxK0IPjFPiHwXgnp-28">
+          <mxGeometry x="-0.325" relative="1" as="geometry">
+            <mxPoint x="20" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-25" target="EPE6BxK0IPjFPiHwXgnp-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-65" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EPE6BxK0IPjFPiHwXgnp-33">
+          <mxGeometry x="-0.8463" y="3" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-25" value="Користувач натискає&lt;div&gt;кнопку &quot;Новий записник&quot;&lt;span style=&quot;background-color: initial;&quot;&gt;?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="680" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-27" target="EPE6BxK0IPjFPiHwXgnp-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-27" value="Користувач вводить назву записника, обирає місце його розташування та підтверджує створення" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="800" width="245" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="1110" />
+              <mxPoint x="410" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-29" value="Створення папки з заданою назвою та файлу нотатки в обраному місці розташування&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="920" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-34" target="EPE6BxK0IPjFPiHwXgnp-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-34" value="Користувач натискає кнопку &quot;Нова нотатка&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="815" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-35" target="EPE6BxK0IPjFPiHwXgnp-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-35" value="Користувач вводить назву нотатки, обирає місце його розташування та підтверджує створення" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="920" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1130.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1075" y="1130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-37" value="Створення файлу нотатки з заданою назвою в обраному місці розташування&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="975" y="1020" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-41" target="EPE6BxK0IPjFPiHwXgnp-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-66" value="Так" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EPE6BxK0IPjFPiHwXgnp-48">
+          <mxGeometry x="-0.6286" y="-1" relative="1" as="geometry">
+            <mxPoint x="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-41" target="EPE6BxK0IPjFPiHwXgnp-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1790" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-67" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EPE6BxK0IPjFPiHwXgnp-51">
+          <mxGeometry x="-0.8926" y="1" relative="1" as="geometry">
+            <mxPoint x="-10" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-41" value="Користувач натискає&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;кнопку&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;Відкрити папку як записник&quot;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="710" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-43" target="EPE6BxK0IPjFPiHwXgnp-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-43" value="Користувач обирає&lt;div&gt;бажану папку&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1282.5" y="830" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-44" target="EPE6BxK0IPjFPiHwXgnp-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-44" value="Завантаження папки та її вмісту" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1385" y="1160" />
+              <mxPoint x="410" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-45" value="Обробка вмісту папки, приведення у форму для відображення" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1302.5" y="1030" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-52" target="EPE6BxK0IPjFPiHwXgnp-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-52" value="Користувач натискає кнопку &quot;Відкрити файл як нотатку&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="830" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-53" target="EPE6BxK0IPjFPiHwXgnp-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-53" value="Користувач обирає&lt;div&gt;бажаний файл&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="920" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-55" target="EPE6BxK0IPjFPiHwXgnp-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-55" value="Завантаження файлу та його вмісту" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="1010" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1189.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1820" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-56" value="Обробка вмісту файлу, приведення у форму для відображення" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="1120" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-63" target="EPE6BxK0IPjFPiHwXgnp-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-63" value="Користувач натискає кнопку &quot;Відкрити&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1307.5" y="630" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-68" target="EPE6BxK0IPjFPiHwXgnp-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-68" value="Користувач вводить символ з клавіатури" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1330" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-70" target="EPE6BxK0IPjFPiHwXgnp-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-70" value="Розбиття введеного тексту на блоки згідно синтаксису Markdown" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1420" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-72" value="Застосування форматування відповідно до отриманих блоків" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1510" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-72" target="EPE6BxK0IPjFPiHwXgnp-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1670" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-76" target="EPE6BxK0IPjFPiHwXgnp-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-76" value="Відобразити форматований текст" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="1620" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="1760" />
+              <mxPoint x="620" y="1310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-81" value="Так" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EPE6BxK0IPjFPiHwXgnp-79">
+          <mxGeometry x="-0.9206" relative="1" as="geometry">
+            <mxPoint x="-16" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-78" target="EPE6BxK0IPjFPiHwXgnp-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-84" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EPE6BxK0IPjFPiHwXgnp-83">
+          <mxGeometry x="-0.5959" y="-1" relative="1" as="geometry">
+            <mxPoint x="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-78" value="Користувач продовжує роботу?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="1720" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-82" target="EPE6BxK0IPjFPiHwXgnp-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-82" value="Записати зміни у відповідні файли" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-85" target="EPE6BxK0IPjFPiHwXgnp-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-85" target="EPE6BxK0IPjFPiHwXgnp-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="2040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-85" value="Занести назви та місце розташування опрацьованих фалів у список недавніх" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1950" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-87" value="База даних" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1945" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EPE6BxK0IPjFPiHwXgnp-90" target="EPE6BxK0IPjFPiHwXgnp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPE6BxK0IPjFPiHwXgnp-90" value="Завершення роботи додатку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2030" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
