@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="Ag_8sbpp-kL82JRSepO8">
-    <mxGraphModel dx="2100" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,103 +11,103 @@
           <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JePZ0B1ACnDFfTxIZQz5-2" value="Кінець" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1380" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="1490" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JePZ0B1ACnDFfTxIZQz5-5" target="Md1Mmbe4wTRUkbsE_4f0-1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JePZ0B1ACnDFfTxIZQz5-5" target="Md1Mmbe4wTRUkbsE_4f0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JePZ0B1ACnDFfTxIZQz5-5" value="Запуск додатку" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-1" target="Md1Mmbe4wTRUkbsE_4f0-2">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-1" target="Md1Mmbe4wTRUkbsE_4f0-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-5" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Md1Mmbe4wTRUkbsE_4f0-3">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-5" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Md1Mmbe4wTRUkbsE_4f0-3" vertex="1" connectable="0">
           <mxGeometry x="-0.3564" relative="1" as="geometry">
             <mxPoint x="10" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-1" target="Md1Mmbe4wTRUkbsE_4f0-10">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-1" target="Md1Mmbe4wTRUkbsE_4f0-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-1" value="Користувач бажає&amp;nbsp;&lt;div&gt;створити новий записник або нотатку?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-1" value="Користувач бажає&amp;nbsp;&lt;div&gt;створити новий записник або нотатку?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="280" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-2" target="Md1Mmbe4wTRUkbsE_4f0-6">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-2" target="Md1Mmbe4wTRUkbsE_4f0-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-9" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Md1Mmbe4wTRUkbsE_4f0-7">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-9" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Md1Mmbe4wTRUkbsE_4f0-7" vertex="1" connectable="0">
           <mxGeometry x="-0.8826" relative="1" as="geometry">
             <mxPoint x="10" y="-42" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-2" target="Md1Mmbe4wTRUkbsE_4f0-42">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-2" target="Md1Mmbe4wTRUkbsE_4f0-42" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-61" value="Так" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Md1Mmbe4wTRUkbsE_4f0-43">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-61" value="Так" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Md1Mmbe4wTRUkbsE_4f0-43" vertex="1" connectable="0">
           <mxGeometry x="-0.8965" y="-1" relative="1" as="geometry">
             <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-2" value="Користувач бажає&amp;nbsp;&lt;div&gt;відкрити існуючий записник або нотатку?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-2" value="Користувач бажає&amp;nbsp;&lt;div&gt;відкрити існуючий записник або нотатку?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="400" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-6" target="JePZ0B1ACnDFfTxIZQz5-2">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-6" target="JePZ0B1ACnDFfTxIZQz5-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-6" value="Завершення роботи додатку" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1290" width="120" height="60" as="geometry" />
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-6" value="Завершення роботи додатку" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-10" target="Md1Mmbe4wTRUkbsE_4f0-14">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-10" target="Md1Mmbe4wTRUkbsE_4f0-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-10" value="Користувач натискає на кнопку &quot;Створити&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-10" value="Користувач натискає на кнопку &quot;Створити&quot;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1195" y="360" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-14" target="Md1Mmbe4wTRUkbsE_4f0-16">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-14" target="Md1Mmbe4wTRUkbsE_4f0-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-62" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Md1Mmbe4wTRUkbsE_4f0-17">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-62" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Md1Mmbe4wTRUkbsE_4f0-17" vertex="1" connectable="0">
           <mxGeometry x="-0.7414" relative="1" as="geometry">
             <mxPoint x="10" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-14" target="Md1Mmbe4wTRUkbsE_4f0-36">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-14" target="Md1Mmbe4wTRUkbsE_4f0-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1630" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-63" value="Так" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Md1Mmbe4wTRUkbsE_4f0-35">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-63" value="Так" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Md1Mmbe4wTRUkbsE_4f0-35" vertex="1" connectable="0">
           <mxGeometry x="-0.9044" y="1" relative="1" as="geometry">
             <mxPoint x="-5" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-14" value="Користувач бажає&amp;nbsp;&lt;div&gt;створити новий записник?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-14" value="Користувач бажає&amp;nbsp;&lt;div&gt;створити новий записник?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1170" y="450" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-16" target="Md1Mmbe4wTRUkbsE_4f0-18">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-16" target="Md1Mmbe4wTRUkbsE_4f0-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-16" value="Користувач натискає на кнопку &quot;Нова нотатка&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-16" value="Користувач натискає на кнопку &quot;Нова нотатка&quot;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1187.5" y="560" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-18" target="Md1Mmbe4wTRUkbsE_4f0-21">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-18" target="Md1Mmbe4wTRUkbsE_4f0-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-18" value="Користувач вводить назву нотатки" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-18" value="Користувач вводить назву нотатки" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1187.5" y="660" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-21" target="Md1Mmbe4wTRUkbsE_4f0-23">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-21" target="Md1Mmbe4wTRUkbsE_4f0-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-21" value="Користувач обирає місце розташування нотатки" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-21" value="Користувач обирає місце розташування нотатки" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1187.5" y="760" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-23">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="999.9999999999998" as="targetPoint" />
             <Array as="points">
@@ -115,31 +115,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-23" value="Користувач підтверджує створення" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-23" value="Користувач підтверджує створення" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1187.5" y="900" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-25" target="Md1Mmbe4wTRUkbsE_4f0-29">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-25" target="Md1Mmbe4wTRUkbsE_4f0-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-25" value="Користувач працює з редактором" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-25" value="Користувач працює з редактором" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="597.5" y="1050" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="1260" as="targetPoint" />
-            <mxPoint x="725.0666666666666" y="1170.0044444444445" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="680" y="1260" />
-              <mxPoint x="420" y="1260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-32" value="Так&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Md1Mmbe4wTRUkbsE_4f0-31">
-          <mxGeometry x="-0.9327" y="-1" relative="1" as="geometry">
-            <mxPoint x="16" y="-6" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-29">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="1030" as="targetPoint" />
             <Array as="points">
@@ -148,27 +133,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-34" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Md1Mmbe4wTRUkbsE_4f0-33">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-34" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Md1Mmbe4wTRUkbsE_4f0-33" vertex="1" connectable="0">
           <mxGeometry x="-0.9333" y="2" relative="1" as="geometry">
             <mxPoint x="-4" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-29" value="Роботу завершено?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yAgoXC_QvEYgjMlbi4QL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-29" target="yAgoXC_QvEYgjMlbi4QL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgoXC_QvEYgjMlbi4QL-3" value="Так" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yAgoXC_QvEYgjMlbi4QL-2">
+          <mxGeometry x="-0.7631" relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-29" value="Роботу завершено?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="605" y="1140" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-36" target="Md1Mmbe4wTRUkbsE_4f0-37">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-36" target="Md1Mmbe4wTRUkbsE_4f0-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-36" value="Користувач натискає на кнопку &quot;Новий записник&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-36" value="Користувач натискає на кнопку &quot;Новий записник&quot;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1530" y="560" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-37" target="Md1Mmbe4wTRUkbsE_4f0-39">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-37" target="Md1Mmbe4wTRUkbsE_4f0-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-37" value="Користувач вводить назву записника" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-37" value="Користувач вводить назву записника" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1530" y="660" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-39">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1270" y="870" as="targetPoint" />
             <Array as="points">
@@ -176,53 +169,53 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-39" value="Користувач обирає місце розташування записника" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-39" value="Користувач обирає місце розташування записника" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1530" y="760" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-42" target="Md1Mmbe4wTRUkbsE_4f0-44">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-42" target="Md1Mmbe4wTRUkbsE_4f0-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-42" value="Користувач натискає на кнопку &quot;Відкрити&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-42" value="Користувач натискає на кнопку &quot;Відкрити&quot;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="480" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-44" target="Md1Mmbe4wTRUkbsE_4f0-48">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-44" target="Md1Mmbe4wTRUkbsE_4f0-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-59" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Md1Mmbe4wTRUkbsE_4f0-49">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-59" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Md1Mmbe4wTRUkbsE_4f0-49" vertex="1" connectable="0">
           <mxGeometry x="-0.3391" y="-2" relative="1" as="geometry">
             <mxPoint x="12" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-44" target="Md1Mmbe4wTRUkbsE_4f0-53">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-44" target="Md1Mmbe4wTRUkbsE_4f0-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-60" value="Так" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Md1Mmbe4wTRUkbsE_4f0-54">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-60" value="Так" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Md1Mmbe4wTRUkbsE_4f0-54" vertex="1" connectable="0">
           <mxGeometry x="-0.929" y="1" relative="1" as="geometry">
             <mxPoint y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-44" value="Користувач бажає&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;відкрити&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;існуючий записник?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-44" value="Користувач бажає&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;відкрити&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;існуючий записник?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="580" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-48" target="Md1Mmbe4wTRUkbsE_4f0-50">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-48" target="Md1Mmbe4wTRUkbsE_4f0-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-48" value="Користувач натискає &quot;Відкрити файл як нотатку&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-48" value="Користувач натискає &quot;Відкрити файл як нотатку&quot;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="595" y="700" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-50" target="Md1Mmbe4wTRUkbsE_4f0-25">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-50" target="Md1Mmbe4wTRUkbsE_4f0-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-50" value="Користувач обирає&lt;div&gt;потрібний файл&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-50" value="Користувач обирає&lt;div&gt;потрібний файл&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="595" y="800" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-53" target="Md1Mmbe4wTRUkbsE_4f0-55">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-53" target="Md1Mmbe4wTRUkbsE_4f0-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-53" value="Користувач натискає &quot;Відкрити папку як записник&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-53" value="Користувач натискає &quot;Відкрити папку як записник&quot;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="700" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-55">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Md1Mmbe4wTRUkbsE_4f0-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="900" as="targetPoint" />
             <Array as="points">
@@ -231,8 +224,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-55" value="Користувач обирає потрібну папку" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Md1Mmbe4wTRUkbsE_4f0-55" value="Користувач обирає потрібну папку" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="800" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yAgoXC_QvEYgjMlbi4QL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yAgoXC_QvEYgjMlbi4QL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAgoXC_QvEYgjMlbi4QL-5" value="Ні" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yAgoXC_QvEYgjMlbi4QL-4">
+          <mxGeometry x="-0.9196" relative="1" as="geometry">
+            <mxPoint x="10" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAgoXC_QvEYgjMlbi4QL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yAgoXC_QvEYgjMlbi4QL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1740" y="1295" />
+              <mxPoint x="1740" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAgoXC_QvEYgjMlbi4QL-7" value="Так" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yAgoXC_QvEYgjMlbi4QL-6">
+          <mxGeometry x="-0.9893" relative="1" as="geometry">
+            <mxPoint x="-3" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAgoXC_QvEYgjMlbi4QL-1" value="Користувач бажає відкрити&lt;div&gt;&amp;nbsp;іншу нотатку або записник?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1250" width="210" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
